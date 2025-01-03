@@ -9,18 +9,18 @@ This repository contains a comprehensive data analysis project utilizing Power B
  - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Dashboard-1/blob/main/SQL%20QUERY%20of%20Thomas%20bicycle%20project.sql"> SQL Query For Project </a> 
 
 ## 📝 Key Features
-•	Hourly Revenue Analysis: Identify peak revenue-generating hours.
-•	Profit and Revenue Trends: Visualize year-over-year growth and changes.
-•	Seasonal Revenue Patterns: Understand seasonal variations in performance.
-•	Rider Demographics: Analyze user demographics for targeted strategies.
+ •	Hourly Revenue Analysis: Identify peak revenue-generating hours.
+ •	Profit and Revenue Trends: Visualize year-over-year growth and changes.
+ •	Seasonal Revenue Patterns: Understand seasonal variations in performance.
+ •	Rider Demographics: Analyze user demographics for targeted strategies.
 
 ## 📊 Final Recommendation
-Based on the analysis:
-•	A 10% price increase raises the price from $4.99 to $5.49, while a 15% increase sets it at approximately $5.74.
-•	Suggested strategies: 
-o	Conduct further market research to assess customer price sensitivity and competition.
-o	Implement a segmented pricing strategy for casual and registered users.
-o	Continuously monitor and adjust pricing based on customer feedback and sales data.
+    Based on the analysis:
+   -	A 10% price increase raises the price from $4.99 to $5.49, while a 15% increase sets it at approximately $5.74.
+   -	Suggested strategies: 
+   -	Conduct further market research to assess customer price sensitivity and competition.
+   -	Implement a segmented pricing strategy for casual and registered users.
+   -	Continuously monitor and adjust pricing based on customer feedback and sales data.
 
 ## 🎨 Dashboard Design
 •	Clean and intuitive interface aligned with company branding.
@@ -28,11 +28,11 @@ o	Continuously monitor and adjust pricing based on customer feedback and sales d
 ![Thomas Bicycle Shop Dashboard Image](https://github.com/user-attachments/assets/ecffab0f-a6be-4785-8c5a-9438f9d7a7e4)
 
 ## 📂 Repository Contents
-•	Power BI Dashboard File: .pbix file for dashboard visuals.
-•	SQL Queries: Scripts used to extract and transform data.
-•	Documentation: Detailed explanation of the analysis and recommendations.
+ -	Power BI Dashboard File: .pbix file for dashboard visuals.
+ - SQL Queries: Scripts used to extract and transform data.
+ -	Documentation: Detailed explanation of the analysis and recommendations.
 
 ## 🚀 Tools and Technologies
-•	Power BI
-•	SQL
-•	Data Visualization and Analysis
+  -	Power BI
+  -	SQL
+  -	Data Visualization and Analysis
