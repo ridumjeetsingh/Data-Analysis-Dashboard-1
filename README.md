@@ -9,10 +9,10 @@ This repository contains a comprehensive data analysis project utilizing Power B
  - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Dashboard-1/blob/main/SQL%20QUERY%20of%20Thomas%20bicycle%20project.sql"> SQL Query For Project </a> 
 
 ## 📝 Key Features
- •	Hourly Revenue Analysis: Identify peak revenue-generating hours.
- •	Profit and Revenue Trends: Visualize year-over-year growth and changes.
- •	Seasonal Revenue Patterns: Understand seasonal variations in performance.
- •	Rider Demographics: Analyze user demographics for targeted strategies.
+  -	Hourly Revenue Analysis: Identify peak revenue-generating hours.
+  -	Profit and Revenue Trends: Visualize year-over-year growth and changes.
+  -	Seasonal Revenue Patterns: Understand seasonal variations in performance.
+  -	Rider Demographics: Analyze user demographics for targeted strategies.
 
 ## 📊 Final Recommendation
     Based on the analysis:
