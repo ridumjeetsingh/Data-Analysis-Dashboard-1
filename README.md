@@ -33,6 +33,7 @@ This repository contains a comprehensive data analysis project utilizing Power B
  -	Documentation: Detailed explanation of the analysis and recommendations.
 
 ## 🚀 Tools and Technologies
+  - Excel
   -	Power BI
   -	SQL
   -	Data Visualization and Analysis
